@@ -1,5 +1,6 @@
 //There are three buttons and one image. 
 //work shown in xml file.
+//Shown Image is default image.
 
 package com.example.layouts;
 
